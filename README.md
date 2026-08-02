@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **malikgee.shahab@gmail.com** For Collaboration/Project or 
 - 🤔 **I’m looking for help with:** Software development, object-oriented programming, AI projects and networking projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** malikgee.shahab@gmail.com
-- 😄 **Pronouns:** Malik Shahab
+- 😄 **Pronouns:** Shaybi Ahmed
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🔗 I am a Software Developer. 😊😊
