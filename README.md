@@ -5,8 +5,8 @@ Email Me 👉 ✉️ **malikgee.shahab@gmail.com** For Collaboration/Project or 
 
 - 🔭 **I’m currently working on:** Semester Projects
 - 🌱 **I’m currently learning:** Software Engineering, AI, Network Engineering.
-- 👯 **I’m looking to collaborate on:** Software Projects
-- 🤔 **I’m looking for help with:** Your project here
+- 👯 **I’m looking to collaborate on:** Web Development, Software Engineering, AI, Computer Networking, Cybersecurity, and Open Source projects.
+- 🤔 **I’m looking for help with:** Software development, object-oriented programming, AI projects and networking projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** malikgee.shahab@gmail.com
 - 😄 **Pronouns:** Malik Shahab
